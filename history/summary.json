@@ -1,7 +1,7 @@
 [
   {
     "name": "uhmyp.ftclouds.asia",
-    "url": "http://uhmyp.ftclouds.asia",
+    "url": "https://uhmyp.ftclouds.asia",
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "uhmyp-ftclouds-asia",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-19": 0
+      "2024-07-19": 6
     }
   }
 ]
