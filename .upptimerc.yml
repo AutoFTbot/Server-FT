@@ -3,10 +3,8 @@ owner: AutoFTbot # Your GitHub organization or username, where this repository l
 repo: Server-FT # The name of this repository
 
 sites:
- - name: uhmyp.ftclouds.asia OPEN SSH
-   check: "tcp-ping"
+ - name: uhmyp.ftclouds.asia
    url: https://uhmyp.ftclouds.asia
-   port: 80
  - name: Google DNS
    check: "tcp-ping"
    url: dns.google
