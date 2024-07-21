@@ -1,24 +1,21 @@
 [
   {
-    "name": "uhmyp.ftclouds.asia",
+    "name": "SG 1",
     "url": "https://uhmyp.ftclouds.asia",
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
-    "slug": "uhmyp-ftclouds-asia",
-    "status": "down",
-    "uptime": "98.33%",
+    "slug": "sg-1",
+    "status": "up",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
-    "time": 812,
-    "timeDay": 810,
-    "timeWeek": 812,
-    "timeMonth": 812,
-    "timeYear": 812,
-    "dailyMinutesDown": {
-      "2024-07-20": 0,
-      "2024-07-19": 30
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 815,
+    "timeDay": 815,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS",
@@ -32,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 4,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
