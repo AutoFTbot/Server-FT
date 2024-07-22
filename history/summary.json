@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 832,
-    "timeWeek": 832,
-    "timeMonth": 832,
-    "timeYear": 832,
+    "time": 770,
+    "timeDay": 721,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 419,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "time": 357,
+    "timeDay": 195,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/f8su5v.x-project-vpn.com.ico",
     "slug": "biznet-rizkyvpn",
     "status": "up",
-    "uptime": "47.43%",
-    "uptimeDay": "47.43%",
-    "uptimeWeek": "47.43%",
-    "uptimeMonth": "47.43%",
-    "uptimeYear": "47.43%",
-    "time": 819,
-    "timeDay": 819,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
-    "dailyMinutesDown": {
-      "2024-07-21": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 803,
+    "timeDay": 803,
+    "timeWeek": 803,
+    "timeMonth": 803,
+    "timeYear": 803,
+    "dailyMinutesDown": {}
   }
 ]
