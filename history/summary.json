@@ -62,19 +62,19 @@
     "url": "https://f8su5v.x-project-vpn.com",
     "icon": "https://icons.duckduckgo.com/ip3/f8su5v.x-project-vpn.com.ico",
     "slug": "biznet-rizkyvpn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 915,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 850,
+    "timeDay": 877,
+    "timeWeek": 850,
+    "timeMonth": 850,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 12
     }
   }
 ]
