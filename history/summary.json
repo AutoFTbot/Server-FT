@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 735,
     "timeDay": 546,
     "timeWeek": 735,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "sg-1",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 269,
     "timeDay": 170,
     "timeWeek": 269,
@@ -62,7 +62,7 @@
     "url": "https://f8su5v.x-project-vpn.com",
     "icon": "https://icons.duckduckgo.com/ip3/f8su5v.x-project-vpn.com.ico",
     "slug": "biznet-rizkyvpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 856,
     "timeMonth": 856,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   }
 ]
