@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 794,
     "timeDay": 1029,
     "timeWeek": 787,
@@ -62,7 +62,7 @@
     "url": "https://f8su5v.x-project-vpn.com",
     "icon": "https://icons.duckduckgo.com/ip3/f8su5v.x-project-vpn.com.ico",
     "slug": "biznet-rizkyvpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 1774,
     "timeMonth": 1774,
     "timeYear": 1774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   }
 ]
