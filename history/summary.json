@@ -12,7 +12,7 @@
     "uptimeYear": "99.38%",
     "time": 794,
     "timeDay": 1029,
-    "timeWeek": 787,
+    "timeWeek": 786,
     "timeMonth": 794,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.61%",
     "time": 260,
     "timeDay": 219,
-    "timeWeek": 202,
+    "timeWeek": 200,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 3,
     "timeDay": 2,
-    "timeWeek": 3,
+    "timeWeek": 2,
     "timeMonth": 3,
     "timeYear": 3,
     "dailyMinutesDown": {}
@@ -62,19 +62,19 @@
     "url": "https://f8su5v.x-project-vpn.com",
     "icon": "https://icons.duckduckgo.com/ip3/f8su5v.x-project-vpn.com.ico",
     "slug": "biznet-rizkyvpn",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 1720,
-    "timeDay": 953,
-    "timeWeek": 1720,
-    "timeMonth": 1720,
-    "timeYear": 1720,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 1678,
+    "timeDay": 963,
+    "timeWeek": 1729,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2024-07-28": 47
+      "2024-07-28": 64
     }
   }
 ]
