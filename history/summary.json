@@ -4,10 +4,10 @@
     "url": "https://uhmyp.ftclouds.asia",
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.45%",
     "time": 783,
@@ -16,6 +16,7 @@
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2024-07-29": 1,
       "2024-07-22": 66
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://uhmyp.ftclouds.asia",
     "icon": "https://icons.duckduckgo.com/ip3/uhmyp.ftclouds.asia.ico",
     "slug": "sg-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2024-07-22": 41
     }
   },
