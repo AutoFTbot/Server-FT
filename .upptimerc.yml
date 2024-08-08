@@ -15,8 +15,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: Serverft.my.id
-  baseUrl: /Server-FT
+  cname: cloudhostid.social
+  #baseUrl: /Server-FT
   logoUrl: https://github.com/AutoFTbot/AutoFTbot/blob/main/assets/ft.png
   name: Server-FT
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
