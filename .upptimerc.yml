@@ -6,7 +6,7 @@ sites:
  - name: WEB 2FA
    url: https://2fa.my.id/
    port: 80
- - name: SG-DO BOT
+ - name: SG DO BOT
    url: https://ahx67.ftclouds.asia
    port: 80
 status-website:
