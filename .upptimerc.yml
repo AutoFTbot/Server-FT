@@ -6,9 +6,6 @@ sites:
  - name: WEB 2FA
    url: https://2fa.my.id/
    port: 80
- - name: SG DO BOT
-   url: https://ahx67.ftclouds.asia
-   port: 80
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
